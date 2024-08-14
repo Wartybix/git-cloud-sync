@@ -16,6 +16,10 @@ Change the remote origin URL to point to your own forked repository:
 
 `git remote set-url origin https://github.com/your-username/your-game-cloud-save`
 
+Alternatively you can fork this repository in GitHub first, and just clone your
+forked repository, in which case you shouldn't need to change the origin URL
+afterwards.
+
 Change the `upload-script.sh` script to include the save file(s) of your game
 where the commented line is.
 
