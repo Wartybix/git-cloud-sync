@@ -1,5 +1,5 @@
-git add \
-# Add save files in this line
+git add 0ba.ba ba.ba
+# Add save files at the end of the line above.
 
-git commit -m --allow-empty-message -m ''
+git commit --allow-empty-message -m ''
 git push
